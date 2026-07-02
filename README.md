@@ -5,15 +5,15 @@ confident, explained shortlist. Instead of another filterable table of specs, it
 handful of plain-language questions and returns a ranked list of cars — each with a reason
 explaining **why** it's a good fit.
 
-**Live demo:** [YOUR_VERCEL_URL]
-**Screen recording:** [YOUR_LOOM_URL]
+**Live demo:** https://cardekho-sepia-five.vercel.app/
+**Screen recording:** https://www.awesomescreenshot.com/video/54175433?key=d80db64d4b91e0b70b4acf8b76f93320
 
 ---
 
 ## Run it locally
 
 ```bash
-git clone [YOUR_REPO_URL]
+git clone https://github.com/devvikassingh/cardekho.git
 cd cardekho
 npm install
 npm run dev
